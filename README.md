@@ -1,2 +1,7 @@
 # day1
-test repo
+sample
+
+## sample 
+#### sample 
+` I am coding `
+
